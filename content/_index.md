@@ -1,7 +1,7 @@
 ---
-title: 'Ananke: a Hugo Theme'
+title: 'Conference'
 featured_image: '/images/gohugo-default-sample-hero-image.jpg'
-description: "The last theme you'll ever need. Maybe."
+description: 'A brand new conference'
 ---
 
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Reimagine Dev è la conferenza che vuole essere un momento di condivisione e riflessione sulle figure professionali coinvolte nel processo di sviluppo software.
