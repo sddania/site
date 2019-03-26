@@ -1,32 +1,42 @@
 baseURL = "https://reimaginedev.github.io/"
 languageCode = "en-us"
 title = "Reimagine Dev"
-theme = "ananke"
+theme = "reimagine-dev-hugo-theme"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+
 googleAnalytics = ""
+enableEmoji = true
 enableRobotsTXT = true
+enableMissingTranslationPlaceholders = true
 
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
   filename = "sitemap.xml"
 
+
 [params]
-  favicon = ""
-  description = "The last theme you'll ever need. Maybe."
-  facebook = ""
-  twitter = ""
-  instagram = ""
-  youtube = ""
-  github = ""
-  gitlab = ""
-  linkedin = ""
-  mastodon = ""
-  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-orange"
-  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
-  recent_posts_number = 2
+    title = "Reimagine Dev 2019"
+    date = "2019-06-07"
+    description = "Humans first"
+    images = ["/images/social-share.jpg"]
+    email = "info@prxm.it"
+    keywords = "event, developers, team, talks"
+    copyright = "Proximo srl - VAT 02265520425"
+    cfpUrl = "https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi"
+    subscriptionUrl = ""
+    appleTouchIcon = "/apple-touch-icon.png"
+    favicon32 = "/favicon-32x32.png"
+    favicon16 = "/favicon-16x16.png"
+    manifest = ""
+    safariPinnedTab = "/safari-pinned-tab.svg"
+    themeColor = "#4285f4"
+
+[params.logos]
+    jumbo = "/images/logos/reimagine-dev-logo-big.png"
+    header = "/images/logos/reimagine-dev-logo-big.png"
+    footer = ""
