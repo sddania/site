@@ -7,7 +7,7 @@ menu:
     weight: -1
 ---
 
-{{% jumbo img="/images/backgrounds/mezzavalle.jpg" imgLabel="DevFest Toulouse 2019" %}}
+{{% jumbo img="/images/backgrounds/mezzavalle.jpg" imgLabel="reimagine dev conference" %}}
 
 ## Empowering Developers
 
@@ -15,7 +15,7 @@ menu:
 
 {{% /jumbo %}}
 
-{{% home-info what="Parecipanti:60,Sessioni:8" class="primary" %}}
+{{% home-info what="Partecipanti:60,Sessioni:8,Tipi di birra:10" class="primary" %}}
 
 ## Cos'è Reimagine Dev?
 
@@ -42,6 +42,6 @@ Reimagine Dev è la conferenza che vuole essere un momento di condivisione e rif
 
 ### Big Air Food District
 
-Tra le uscite di Ancona Sud e Loreto è l'ambiente ideale per un incontro informale tra sviluppatori.
+Tra le uscite di Ancona Sud e Loreto è l'ambiente ideale per un incontro informale tra developers.
 
 {{% /home-location %}}
