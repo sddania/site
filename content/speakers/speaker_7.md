@@ -1,10 +1,10 @@
 ---
-id: andrea_balducci
-name: Andrea Balducci
-company: Proximo srl
-featured: false
-photo: /images/speakers/andrea_balducci.jpg
-photoUrl: /images/speakers/andrea_balducci.jpg
+id: speaker_3
+name: Speaker 3
+company: TBD
+featured: true
+photo: /images/speakers/dev2.png
+photoUrl: /images/speakers/dev2.png
 socials:
   - icon: twitter
     link: 'https://twitter.com/andreabalducci'

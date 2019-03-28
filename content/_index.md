@@ -17,9 +17,11 @@ menu:
 
 {{% home-info what="Partecipanti:60,Sessioni:8,Tipi di birra:10" class="primary" %}}
 
-## Cos'è Reimagine Dev?
+## Developers first
 
 Reimagine Dev è la conferenza che vuole essere un momento di condivisione e riflessione sulle figure professionali coinvolte nel processo di sviluppo software.
+
+Sentivamo il bisogno di
 {{% /home-info %}}
 
 {{% home-speakers %}}
@@ -42,6 +44,6 @@ Reimagine Dev è la conferenza che vuole essere un momento di condivisione e rif
 
 ### Big Air Food District
 
-Tra le uscite di Ancona Sud e Loreto è l'ambiente ideale per un incontro informale tra developers.
+Situato tra le uscite di Ancona Sud e Loreto è la location ideale per un incontro informale tra developers.
 
 {{% /home-location %}}

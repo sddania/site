@@ -39,4 +39,4 @@ enableMissingTranslationPlaceholders = true
 [params.logos]
     jumbo = "/images/logos/reimagine-dev-logo-big.png"
     header = "/images/logos/reimagine-dev-logo-big.png"
-    footer = ""
+    footer = "/images/logos/proximo.png"
