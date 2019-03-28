@@ -1,5 +1,5 @@
 ---
-title: 'Conference'
+title: 'Conferenza'
 featured_image: '/images/logos/reimagine-dev-logo-big.png'
 description: 'A brand new conference'
 menu:

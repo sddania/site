@@ -1,7 +1,6 @@
 ---
 id: 101
 title: Keynote d'apertura
-image: /images/backgrounds/game.png
 class: intro
 presentation:
 videoId:
@@ -10,6 +9,8 @@ tags:
 speakers:
   - andrea_balducci
 talkType: Keynote
+complexity: Beginner
+
 ---
 
 Perché una nuova conf?

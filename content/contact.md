@@ -1,12 +1,18 @@
 ---
-title: Contact
-featured_image: 'images/notebook.jpg'
-omit_header_text: true
-description: We'd love to hear from you
-type: page
+title: Contatti
 menu:
   main:
-    weight: 10
+    weight: 100
 ---
 
-This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out [Formspree](https://formspree.io/) for a simple, free form service.
+**Proximo srl**
+
+Via Martiri della Libertà, 3
+
+60022 Castelfidardo (AN)
+
+<br/>
+
+**Email** info@prxm.it
+
+**Tel** 071 723 2476
