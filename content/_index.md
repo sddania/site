@@ -19,9 +19,8 @@ menu:
 
 ## Developers first
 
-Reimagine Dev è la conferenza che vuole essere un momento di condivisione e riflessione sulle figure professionali coinvolte nel processo di sviluppo software.
+Reimagine Dev è la conferenza in cui proviamo a ripensare il modo di essere sviluppatori software.
 
-Sentivamo il bisogno di
 {{% /home-info %}}
 
 {{% home-speakers %}}
@@ -44,6 +43,6 @@ Sentivamo il bisogno di
 
 ### Big Air Food District
 
-Situato tra le uscite di Ancona Sud e Loreto è la location ideale per un incontro informale tra developers.
+Situato nel cuore della Riviera del Conero, tra le uscite di Ancona Sud e Loreto, è la location ideale per un incontro informale tra developers.
 
 {{% /home-location %}}
