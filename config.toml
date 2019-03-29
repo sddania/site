@@ -38,3 +38,17 @@ enableMissingTranslationPlaceholders = true
     jumbo = "/images/logos/reimagine-dev-logo-big.png"
     header = "/images/logos/reimagine-dev-logo-big.png"
     footer = "/images/logos/proximo.png"
+
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    disable = true
+  [privacy.instagram]
+    disable = true
+  [privacy.twitter]
+    disable = true
+  [privacy.vimeo]
+    disable = true
+  [privacy.youtube]
+    disable = true
