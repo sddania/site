@@ -1,5 +1,5 @@
 ---
-title: Sessions
+title: Sessioni
 menu:
   main:
     weight: 30
