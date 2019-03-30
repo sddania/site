@@ -1,4 +1,4 @@
-baseURL = "https://reimaginedev.github.io/"
+baseURL = "https://reimagine.dev/"
 languageCode = "en-us"
 title = "Reimagine Dev"
 theme = "reimagine-dev-hugo-theme"
