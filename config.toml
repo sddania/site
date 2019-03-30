@@ -4,7 +4,7 @@ title = "Reimagine Dev"
 theme = "reimagine-dev-hugo-theme"
 
 MetaDataFormat = "yaml"
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "it"
 
 googleAnalytics = ""
 enableEmoji = true
@@ -36,7 +36,7 @@ enableMissingTranslationPlaceholders = true
 
 [params.logos]
     jumbo = "/images/logos/reimagine-dev-logo-big.png"
-    header = "/images/logos/reimagine-dev-logo-big.png"
+    header = "/images/logos/reimagine-dev-logo-medium.png"
     footer = "/images/logos/proximo.png"
 
 [privacy]

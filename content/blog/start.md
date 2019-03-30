@@ -17,8 +17,7 @@ La conferenza è organizzata da un team di Developer che dopo anni di eventi pre
 * Saper comunicare
 * Remote / Smart Working
 * Gestione dello stress
-* Esperienze nella gestione dei progetti digitali
-* Esperienze nella gestione dei prodotti digitali
+* Esperienze nella gestione dei progetti o prodotti digitali
 * Tecniche di sopravvivenza all'hype tecnologico
 * Vita da Community
 * Partecipazione a progetti Open Source
@@ -26,3 +25,7 @@ La conferenza è organizzata da un team di Developer che dopo anni di eventi pre
 ## Formato
 
 Sessioni da **25 minuti** con **5 minuti** di Q&A finali.
+
+## Call for papers
+
+Proponi la tua sessione: https://sessionize.com/reimagine-dev

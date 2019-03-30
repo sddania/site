@@ -13,6 +13,6 @@ Via Martiri della Libertà, 3
 
 <br/>
 
-**Email** info@prxm.it
+**Email** <info@prxm.it> 
 
 **Tel** 071 723 2476

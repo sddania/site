@@ -1,7 +1,7 @@
 ---
 title: 'Conferenza'
 featured_image: '/images/logos/reimagine-dev-logo-big.png'
-description: 'A brand new conference'
+description: 'Humans first'
 menu:
   main:
     weight: -1
@@ -17,7 +17,7 @@ menu:
 
 {{% home-info what="Partecipanti:60,Sessioni:8,Tipi di birra:10" class="primary" %}}
 
-## Developers first
+## Developer first
 
 Reimagine Dev è la conferenza in cui proviamo a ripensare il modo di essere sviluppatori software.
 
@@ -25,9 +25,9 @@ Reimagine Dev è la conferenza in cui proviamo a ripensare il modo di essere svi
 
 {{% home-speakers %}}
 
-## Featured Speakers
+## Speakers
 
-{{< button-link label="See all speakers"
+{{< button-link label="Tutti gli speaker"
                 url="./speakers"
                 icon="right" >}}
 
