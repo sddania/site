@@ -15,11 +15,11 @@ menu:
 
 {{% /jumbo %}}
 
-{{% home-info what="Partecipanti:60,Sessioni:8,Tipi di birra:10" class="primary" %}}
+{{% home-info what="Bigletti:60,Sessioni:8,Tipi di birra:10,Giorni:1" class="primary" %}}
 
-## Developer first
+## Conferenza
 
-Reimagine Dev è la conferenza in cui proviamo a ripensare il modo di essere sviluppatori software.
+Reimagine Dev è la conferenza in cui proviamo ad immaginere un modo di verso di vivere la professione dello sviluppatore software.
 
 {{% /home-info %}}
 
