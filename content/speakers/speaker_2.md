@@ -1,15 +1,15 @@
 ---
 id: speaker_2
 name: Speaker 2
-company: TBD
+company: 
 featured: true
 photo: /images/speakers/dev.png
 photoUrl: /images/speakers/dev.png
 socials:
 
-shortBio: 'Post-it ninja'
+shortBio: ''
 companyLogo:
 companyLogoUrl:
 ---
 
-Sviluppatore da sempre....
+Coming soon...

@@ -33,6 +33,7 @@ Reimagine Dev è la conferenza in cui proviamo ad immaginere un modo di verso di
 
 {{% /home-speakers %}}
 
+
 {{% home-location
     image="/images/big-air-food.jpg"
     address="Via Direttissima del Conero, 54, 60021 Camerano AN"

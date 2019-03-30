@@ -28,4 +28,6 @@ Sessioni da **25 minuti** con **5 minuti** di Q&A finali.
 
 ## Call for papers
 
-Proponi la tua sessione: https://sessionize.com/reimagine-dev
+Proponi la tua sessione
+
+<a href="https://sessionize.com/reimagine-dev"><img width="234" height="60" src="https://sessionize.com/Assets/buttons/sessionize--button-234x60.png" alt="Sessionize.com - smart way to manage call for papers, speaker and agenda"></a>

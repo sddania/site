@@ -1,6 +1,6 @@
 ---
-id: 101
-title: Keynote d'apertura
+id: 1730
+title: Chiusura
 class: intro
 presentation:
 videoId:
@@ -10,6 +10,8 @@ speakers:
   - andrea_balducci
 talkType: Keynote
 complexity: Beginner
+slot: 17:30
+weight: 1730
 
 ---
 
