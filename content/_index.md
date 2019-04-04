@@ -15,15 +15,16 @@ menu:
 
 {{% /jumbo %}}
 
-{{% home-info what="Bigletti:60,Sessioni:8,Tipi di birra:10,Giorni:1" class="primary" %}}
+{{% home-info what="Bigletti:60,Sessioni:6,Tipi di birra:10,Slot Unconference:6" class="primary" %}}
 
 ## Conferenza
 
-Reimagine Dev è la conferenza in cui proviamo ad immaginere un modo di verso di vivere la professione dello sviluppatore software.
+Proviamo a reimmaginare un modo migliore di vivere le professioni legate al mondo dello sviluppo software.
 
 {{% /home-info %}}
 
 {{% home-speakers %}}
+
 
 ## Speakers
 
@@ -47,3 +48,4 @@ Reimagine Dev è la conferenza in cui proviamo ad immaginere un modo di verso di
 Situato nel cuore della Riviera del Conero, tra le uscite di Ancona Sud e Loreto, è la location ideale per un incontro informale tra developers.
 
 {{% /home-location %}}
+

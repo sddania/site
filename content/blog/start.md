@@ -12,15 +12,19 @@ Reimagine Dev si terrà il 7 Giugno 2019 a Camerano (AN).
 
 La conferenza è organizzata da un team di Developer che dopo anni di eventi prettamente tecnici hanno sentito l'esigenza di creare un momento di discussione e riflessione che rimettesse al centro le persone e non le tecnologie.
 
-## Temi
+
+## Temi che vorremmo trattare
 
 * Saper comunicare
 * Remote / Smart Working
 * Gestione dello stress
 * Esperienze nella gestione dei progetti o prodotti digitali
-* Tecniche di sopravvivenza all'hype tecnologico
-* Vita da Community
-* Partecipazione a progetti Open Source
+* Architetture sostenibili
+* Community
+* Open Source
+* Bias cognitivi
+* Formazione
+
 
 ## Formato
 
