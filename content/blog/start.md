@@ -1,6 +1,6 @@
 ---
 title: Reimagine Dev
-brief: People first
+brief: Developer first
 image: /images/blog/intro.png
 date: 2019-03-01
 draft: false
@@ -23,7 +23,8 @@ La conferenza è organizzata da un team di Developer che dopo anni di eventi pre
 * Community
 * Open Source
 * Bias cognitivi
-* Formazione
+* Formazione e miglioramento continuo
+* Lavorare in team
 
 
 ## Formato

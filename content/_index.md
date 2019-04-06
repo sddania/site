@@ -7,19 +7,23 @@ menu:
     weight: -1
 ---
 
-{{% jumbo img="/images/backgrounds/mezzavalle.jpg" imgLabel="reimagine dev conference" %}}
+{{% jumbo img="/images/backgrounds/live.jpg" imgLabel="reimagine dev conference" %}}
 
-## Empowering Developers
-
-### 7 Giugno 2019 - Camerano (AN)
+### #include&lt;developer&gt;
 
 {{% /jumbo %}}
 
 {{% home-info what="Bigletti:60,Sessioni:6,Tipi di birra:10,Slot Unconference:6" class="primary" %}}
 
-## Conferenza
+## A New Hope
 
-Proviamo a reimmaginare un modo migliore di vivere le professioni legate al mondo dello sviluppo software.
+### Alla ricerca della sostenibilità nello sviluppo software
+
+&nbsp;
+
+#### 7 Giugno 2019 - Riviera del Conero (AN)
+
+&nbsp;
 
 {{% /home-info %}}
 

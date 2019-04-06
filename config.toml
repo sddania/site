@@ -20,7 +20,7 @@ enableMissingTranslationPlaceholders = true
 [params]
     title = "Reimagine Dev 2019"
     date = "2019-06-07"
-    description = "Developers first"
+    description = "Developer first"
     images = ["/images/social-share.jpg"]
     email = "info@prxm.it"
     keywords = "event, developers, team, talks"
