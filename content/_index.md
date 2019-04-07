@@ -27,8 +27,15 @@ menu:
 
 {{% /home-info %}}
 
-{{% home-speakers %}}
+{{% home-cfp %}}
 
+# Proponi una sessione
+Call for papers powered by sessionize.com
+
+{{% /home-cfp %}}
+
+
+<!-- {{% home-speakers %}}
 
 ## Speakers
 
@@ -37,7 +44,7 @@ menu:
                 icon="right" >}}
 
 {{% /home-speakers %}}
-
+ -->
 
 {{% home-location
     image="/images/big-air-food.jpg"
