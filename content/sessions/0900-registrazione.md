@@ -1,11 +1,11 @@
 ---
 id: 0900
-title: Registrazione
+title: ".setup()"
 class: intro
 presentation:
 videoId:
 tags:
-  - General
+  - Registrazione
 speakers:
   
 talkType: org

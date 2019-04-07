@@ -1,17 +1,17 @@
 ---
-id: 1315
-title: Pranzo
+id: 1115
+title: Sessione 3
 class: intro
 presentation:
 videoId:
 tags:
-  - break
+  - talk
 speakers:
   
-talkType: org
+talkType: talk
 complexity: Beginner
-slot: 13:15
-weight: 1315
+slot: 11:15
+weight: 1115
 ---
 
-Pausa pranzo
+TBD

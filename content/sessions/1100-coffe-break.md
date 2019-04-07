@@ -1,6 +1,6 @@
 ---
-id: 1315
-title: Pranzo
+id: 1100
+title: Coffee break
 class: intro
 presentation:
 videoId:
@@ -8,10 +8,10 @@ tags:
   - break
 speakers:
   
-talkType: org
+talkType: talk
 complexity: Beginner
-slot: 13:15
-weight: 1315
+slot: 11:00
+weight: 1100
 ---
 
-Pausa pranzo
+Coffee Break

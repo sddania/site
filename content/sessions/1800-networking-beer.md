@@ -1,17 +1,17 @@
 ---
-id: 1315
-title: Pranzo
+id: 1800
+title: ":beers: Networking"
 class: intro
 presentation:
 videoId:
 tags:
-  - break
+  - General
 speakers:
-  
 talkType: org
 complexity: Beginner
-slot: 13:15
-weight: 1315
+slot: 18:00
+weight: 1800
+
 ---
 
-Pausa pranzo
+Beer time
