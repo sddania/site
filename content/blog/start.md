@@ -10,7 +10,7 @@ Reimagine Dev si terrà il 7 Giugno 2019 a Camerano (AN).
 
 ## Team
 
-La conferenza è organizzata da un team di Developer che dopo anni di eventi prettamente tecnici hanno sentito l'esigenza di creare un momento di discussione e riflessione che rimettesse al centro le persone e non le tecnologie.
+La conferenza è organizzata da un team di Developer che dopo anni di eventi prettamente tecnici hanno sentito l'esigenza di creare un momento di discussione e riflessione che rimettesse al centro le persone e non la tecnologia.
 
 
 ## Temi che vorremmo trattare

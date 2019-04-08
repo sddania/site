@@ -13,11 +13,13 @@ menu:
 
 {{% /jumbo %}}
 
-{{% home-info what="Bigletti:60,Sessioni:6,Tipi di birra:10,Slot Unconference:6" class="primary" %}}
+{{% home-info what="Biglietti:60,Sessioni:6,Tipi di birra:10,Slot Unconference:6" class="primary" %}}
 
 ## A New Hope
 
 ### Alla ricerca della sostenibilità nello sviluppo software
+
+<a href="{{< ref "/blog/start" >}}">scopri di più...</a>
 
 &nbsp;
 
@@ -27,11 +29,15 @@ menu:
 
 {{% /home-info %}}
 
-{{% home-cfp %}}
 
+{{% home-link url="/blog/start" %}}
+# Presentazione
+{{% /home-link %}}
+
+
+{{% home-cfp %}}
 # Proponi una sessione
 Call for papers powered by sessionize.com
-
 {{% /home-cfp %}}
 
 
