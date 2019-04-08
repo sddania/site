@@ -1,11 +1,11 @@
 ---
 id: 1800
-title: ":beers: Networking"
+title: ".connect(:beers:)"
 class: intro
 presentation:
 videoId:
 tags:
-  - General
+  - break
 speakers:
 talkType: org
 complexity: Beginner

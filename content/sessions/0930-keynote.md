@@ -7,7 +7,6 @@ videoId:
 tags:
   - Keynote
 speakers:
-  - andrea_balducci
 talkType: Keynote
 complexity: Beginner
 slot: 09:30

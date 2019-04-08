@@ -1,5 +1,5 @@
 ---
-title: Sessioni
+title: Agenda
 menu:
   main:
     weight: 30

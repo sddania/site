@@ -1,7 +1,8 @@
 ---
 title: Speakers
-draft: false
+draft: true
 menu:
   main:
-    weight: 40
+    weight: -1
 ---
+    weight: 40
