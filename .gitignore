@@ -62,3 +62,4 @@ typings/
 
 # Macos
 .DS_Store
+static/images/.DS_Store

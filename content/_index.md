@@ -19,7 +19,8 @@ menu:
 
 ### Alla ricerca della sostenibilità nello sviluppo software
 
-<a href="{{< ref "/blog/start" >}}">scopri di più...</a>
+<a href="https://www.eventbrite.it/e/biglietti-reimagine-dev-59265099508" target="_blank">Partecipa</a>
+
 
 &nbsp;
 
@@ -39,6 +40,12 @@ menu:
 # Proponi una sessione
 Call for papers powered by sessionize.com
 {{% /home-cfp %}}
+
+
+{{% home-link url="https://www.eventbrite.it/e/biglietti-reimagine-dev-59265099508" %}}
+# Biglietti
+{{% /home-link %}}
+
 
 
 <!-- {{% home-speakers %}}
