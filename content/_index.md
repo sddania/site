@@ -13,7 +13,7 @@ menu:
 
 {{% /jumbo %}}
 
-{{% home-info what="Biglietti:60,Sessioni:6,Tipi di birra:10,Slot Unconference:6" class="primary" %}}
+{{% home-info what="Biglietti:40,Sessioni:6,Tipi di birra:10,Slot Unconference:5" class="primary" %}}
 
 ## A New Hope
 
