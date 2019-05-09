@@ -30,34 +30,17 @@ menu:
 
 {{% /home-info %}}
 
-
-{{% home-link url="/blog/start" %}}
-# Presentazione
-{{% /home-link %}}
-
-
-{{% home-cfp %}}
-# Proponi una sessione
-Call for papers powered by sessionize.com
-{{% /home-cfp %}}
-
-
-{{% home-link url="https://www.eventbrite.it/e/biglietti-reimagine-dev-59265099508" %}}
-# Biglietti
-{{% /home-link %}}
-
-
-
-<!-- {{% home-speakers %}}
+{{% home-speakers %}}
 
 ## Speakers
 
-{{< button-link label="Tutti gli speaker"
+{{< button-link label="Tutti gli speakers"
                 url="./speakers"
                 icon="right" >}}
 
 {{% /home-speakers %}}
- -->
+
+
 
 {{% home-location
     image="/images/big-air-food.jpg"
