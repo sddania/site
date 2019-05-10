@@ -8,7 +8,7 @@ tags:
   - Keynote
 speakers:
 talkType: Keynote
-complexity: Beginner
+complexity: 
 slot: 09:30
 weight: 0930
 ---
