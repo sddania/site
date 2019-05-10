@@ -6,6 +6,9 @@ featured: true
 photo: /images/speakers/alessandro_giorgetti.jpg
 photoUrl: /images/speakers/alessandro_giorgetti.jpg
 socials:
+  - icon: twitter
+    link: 'https://twitter.com/a_giorgetti'
+    name: ''
 
 shortBio: 'Software Developer'
 companyLogo: /images/speakers/sid.jpg

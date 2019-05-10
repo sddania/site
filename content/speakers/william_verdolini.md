@@ -12,4 +12,5 @@ companyLogo: /images/speakers/proximo.png
 companyLogoUrl: /images/speakers/proximo.png
 ---
 
-Quello bello del gruppo ;-)
+TBD
+
