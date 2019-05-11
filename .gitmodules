@@ -1,10 +1,10 @@
 [submodule "public"]
 	path = public
-	url = https://github.com/reimaginedev/reimaginedev.github.io.git
+	url = https://github.com/sddania/reimaginedev.github.io.git
 	branch = master
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/budparr/gohugo-theme-ananke.git
 [submodule "themes/reimagine-dev-hugo-theme"]
 	path = themes/reimagine-dev-hugo-theme
-	url = https://github.com/reimaginedev/reimagine-dev-hugo-theme.git
+	url = https://github.com/sddania/reimagine-dev-hugo-theme.git
